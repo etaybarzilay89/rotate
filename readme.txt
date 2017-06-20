@@ -1,1 +1,0 @@
-This amazing site rotates the picture and keeps it contiguous.
